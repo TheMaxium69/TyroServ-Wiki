@@ -5,20 +5,22 @@
 
 ## GAMEPLAY
 
-* [Faction](gameplay/faction.md)
+* [🔋 Bien Démarrer](gameplay/bien-demarrer.md)
+* [🔰 Faction](gameplay/faction.md)
 * [⚔️ PVP](gameplay/pvp.md)
-* [Fusion](gameplay/fusion.md)
-* [Mod](gameplay/mod.md)
+* [💎 Mineraix](gameplay/mineraix.md)
+* [❤️‍🔥 Fusion](gameplay/fusion.md)
+* [⛏️ Mod](gameplay/mod.md)
 
 ## Assistance
 
-* [Launcher](assistance/launcher.md)
-* [Site Internet](assistance/site-internet.md)
-* [Boutique](assistance/boutique.md)
+* [💡 Launcher](assistance/launcher.md)
+* [💡 Site Internet](assistance/site-internet.md)
+* [💡 Boutique](assistance/boutique.md)
 
 ## MINERAIX
 
-* [Page 1](mineraix/page-1.md)
+* [Adamentium](mineraix/adamentium.md)
 
 ## LEGAL
 
